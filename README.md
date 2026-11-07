@@ -21,7 +21,7 @@ From your own install of the Android game (package `com.rockstargames.gtavc`), i
 | From | Version | What goes into `game/` |
 |---|---|---|
 | `main.11.com.rockstargames.gtavc.obb` | 11 | its contents (it is a zip), first |
-| the `.apk` | the one with `libGTAVC.so` md5 `0d10ceaf…` | the contents of `assets/` over the OBB's (its `TEXT/*.gxt`, `data/main.scm` are newer), and `lib/armeabi-v7a/libGTAVC.so` |
+| the `.apk` | version 1.0.7 (`libGTAVC.so` md5 `0d10ceaf…`) | the contents of `assets/` over the OBB's (its `TEXT/*.gxt`, `data/main.scm` are newer), and `lib/armeabi-v7a/libGTAVC.so` |
 
 The OBB is in `/sdcard/Android/obb/com.rockstargames.gtavc/` on the phone. Files
 named `…~HEAD` or `…~<hash>` in some unpacked APKs are leftovers of the tool
