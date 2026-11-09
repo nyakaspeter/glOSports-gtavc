@@ -7,7 +7,7 @@ resolves its imports to goodluckOS's glibc, ARM's Mali GLES 2.0 driver (from
 the folder's `glos/`, see `goodluckOS-mali-driver`), OpenAL Soft and SDL's pad,
 answers its Java calls through a fake JNI, and runs it. The loader core is
 and the game's fixes are carried over from `glOSports-gta3` (the same War
-Drum layer), checked against this library. Separate from `glOSports-revc`,
+Drum layer), checked against this library. Separate from `glOSports-gtavc-pc`,
 which runs the PC data on reVC. The console stays stock goodluckOS.
 
 Status: runs on the GA36-MB: menus at 55 fps, new game,
